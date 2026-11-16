@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Xinko2438/Xinko2438/b1a1a98619bc16c25e593a3c2cb51212bee7387e/assets/banner.svg" width="100%" alt="Xinko — Product thinking. Working software." />
+<img src="https://raw.githubusercontent.com/Xinko2438/Xinko2438/1d7734991123cbdf02aa854839d043b6a84c0ca5/assets/banner.svg" width="100%" alt="Xinko — Product thinking. Working software." />
 
 喜欢拆解问题，也喜欢把东西做出来。关心 AI 能做什么，更关心它在真实使用中是否可靠、顺手。
 
