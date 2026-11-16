@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Xinko — Product thinking. Working software." />
+<img src="https://raw.githubusercontent.com/Xinko2438/Xinko2438/b1a1a98619bc16c25e593a3c2cb51212bee7387e/assets/banner.svg" width="100%" alt="Xinko — Product thinking. Working software." />
 
 喜欢拆解问题，也喜欢把东西做出来。关心 AI 能做什么，更关心它在真实使用中是否可靠、顺手。
 
@@ -29,8 +29,9 @@
 
 ## Selected work
 
-| 项目 | 关注的问题 | 实现要点 |
-| :-- | :-- | :-- |
-| **[栖思 Qisi](https://github.com/Xinko2438/qisi-mindmap)** | 把零散想法整理成可编辑、可保存的结构 | 本地优先、图文节点、多维关系、便携导出 |
+| 项目 | 实践 |
+| :-- | :-- |
+| **[栖思 Qisi](https://github.com/Xinko2438/qisi-mindmap)** | 本地优先的思维导图工作台；图文节点、多维关系与便携导出。 |
+| **[OpenMausBot · 开源贡献](https://github.com/milind-soni/OpenMausBot/pull/4544)** | 提交桌面文件保存修复 PR：处理自定义数据目录的路径校验与文件复制，补充回归用例。PR 尚待合并。 |
 
 <sub>Interested in AI Native products, thoughtful interactions, and tools worth using.</sub>
