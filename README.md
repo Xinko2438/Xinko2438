@@ -1,16 +1,17 @@
-## Hi there 👋
+# Xinko
 
-<!--
-**Xinko2438/Xinko2438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI 产品 · 创意工具 · 人机交互**
 
-Here are some ideas to get you started:
+喜欢把想法拆开，动手做成可以使用的东西，再一点点打磨。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关注的方向
+
+- AI Native 产品与多 Agent 协作
+- 本地优先工具与知识整理
+- 多模态创作与交互体验
+
+## 精选项目
+
+| 项目 | 简介 |
+| --- | --- |
+| [栖思 · 思维导图](https://github.com/Xinko2438/qisi-mindmap) | 本地优先的思维导图工作台，支持图文节点、关系线和导入导出。 |
