@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/Xinko2438/Xinko2438/1d7734991123cbdf02aa854839d043b6a84c0ca5/assets/banner.svg" width="100%" alt="Xinko — Product thinking. Working software." />
 
-喜欢拆解问题，也喜欢把东西做出来。关心 AI 能做什么，更关心它在真实使用中是否可靠、顺手。
-
-目前主要折腾多 Agent 协作、学习工具和创意工具。从需求、交互到实现都愿意动手，做完之后继续改。
+平时主要做 AI Native 应用、多 Agent 工作流和交互工具。习惯把产品设计、界面细节和代码实现放在一起做，有想法先做出能跑的版本，再在日常使用里慢慢打磨。
 
 ## Stack & tools
 
