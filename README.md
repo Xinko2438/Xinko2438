@@ -31,7 +31,10 @@
 
 | 项目 | 实践 |
 | :-- | :-- |
+| **[Math Insight · 错因智诊](https://github.com/Xinko2438/Math-Insight)** | 数学学习小程序（开发中）；结构化 OCR、公式校对、提交快照与后台诊断任务。 |
 | **[栖思 Qisi](https://github.com/Xinko2438/qisi-mindmap)** | 本地优先的思维导图工作台；图文节点、多维关系与便携导出。 |
-| **[OpenMausBot · 开源贡献](https://github.com/milind-soni/OpenMausBot/pull/4544)** | 提交桌面文件保存修复 PR：处理自定义数据目录的路径校验与文件复制，补充回归用例。PR 尚待合并。 |
+| **[Motion Vault](https://github.com/Xinko2438/Motion-Vault)** | 面向设计实践与 Agent 的动效参考库；交互预览、来源与源码映射、按需检索 CLI。 |
+
+**开源贡献** · [OpenMausBot #4544](https://github.com/milind-soni/OpenMausBot/pull/4544)：提交桌面文件保存与路径校验修复，补充回归用例。PR 尚待合并。
 
 <sub>Interested in AI Native products, thoughtful interactions, and tools worth using.</sub>
