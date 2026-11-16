@@ -6,15 +6,22 @@
 
 ## 关注的方向
 
-- AI Native 产品与多 Agent 协作
-- 本地优先工具与知识整理
-- 多模态创作与交互体验
+AI Native 产品与多 Agent 协作 · 本地优先工具与知识整理 · 多模态创作与交互体验
 
-## 技术与方法
+## 技术栈
 
-- **产品**：需求梳理、交互设计、原型与迭代
-- **构建**：HTML、CSS、JavaScript、Node.js
-- **AI 探索**：多模型协作、提示词设计与工具调用
+**语言与构建**
+
+![HTML](https://img.shields.io/badge/HTML-2d3748?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2d3748?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d3748?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2d3748?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**AI 与产品**
+
+`多 Agent 协作`　`多模型应用`　`提示词设计`　`工具调用`
+
+`需求梳理`　`交互设计`　`原型与迭代`
 
 ## 精选项目
 
