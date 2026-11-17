@@ -58,11 +58,16 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 作品集在线预览
+
+| 作品 | 简介 | 在线预览 |
+| :-- | :-- | :-- |
+| **Aura Lab · 气味构筑所** | 香氛品牌交互展示 · 产品陈列与气味调配可视化 | [打开作品](https://aura-lab-showcase.vercel.app/) |
+
 ## 精选项目
 
 | 项目 | 简介 |
 | :-- | :-- |
-| **[Aura Lab · 气味构筑所](https://aura-lab-showcase.vercel.app/)** | 香氛品牌交互展示（在线演示） · 产品陈列与气味调配可视化 |
 | **[Portrait Lab · AI 写真](https://github.com/Xinko2438/Portrait-Lab)** | 本地优先的写真创作工作台 · 参考图与生成任务、图片批注、逐图评审及版本追溯 |
 | **[Math Insight · 错因智诊](https://github.com/Xinko2438/Math-Insight)** | 数学学习小程序（开发中） · 结构化 OCR、公式点选校对、提交快照与后台异步诊断 |
 | **[栖思 Qisi](https://github.com/Xinko2438/qisi-mindmap)** | 本地优先的思维导图工作台 · 图文节点、多维关系线与单文件便携导出 |
